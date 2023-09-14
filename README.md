@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?color=42564F)
-![header](https://capsule-render.vercel.app/api?text=Welcometosouthernyj~!&fontSize=40)
+
+![header](https://capsule-render.vercel.app/api?color=42564F?text=Welcometosouthernyj~!&fontSize=40)
 
 
 
